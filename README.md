@@ -19,7 +19,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-DevViewTool::Renderer.copyright "Parth Soni", "All Rights Resvered"
+ @copyright = DevViewTool::Renderer.copyright "Parth Soni", "All Rights Resvered"
 ```
 
 ## Development
